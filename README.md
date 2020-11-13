@@ -1,4 +1,4 @@
-# debug-level
+# @lskjs/debug-level
 
 > debug with levels
 

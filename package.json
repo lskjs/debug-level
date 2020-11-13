@@ -1,5 +1,5 @@
 {
-  "name": "debug-level",
+  "name": "@lskjs/debug-level",
   "version": "0.3.2",
   "description": "debug with levels",
   "keywords": [
